@@ -1,0 +1,6 @@
+db.sqlite3
+venv
+.env
+oidc.key
+.vscode
+__pycache__
